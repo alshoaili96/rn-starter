@@ -91,7 +91,7 @@ switch(color){
         return;      
 }*/
 
-}
+
 
 console.log(`rgb(${counterRed}, ${counterGreen}, ${counterBlue})`)
 
